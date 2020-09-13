@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mukesh kumar</h1>
+<h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
 <h3 align="center">I am an aspiring software engineer</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript git, git hub, visual studio.**
