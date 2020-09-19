@@ -15,4 +15,16 @@
 <p align="center">
 <a href="https://fb.com/9889545350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="9889545350" height="30" width="30" /></a>
 </p>
+<p align="center">
+<img src="https://th.bing.com/th/id/OIP.2T8L0Cv-BuqVyrvKO9ZeEQHaHa?pid=Api&rs=1" alt="Github" width="30" height="30"/>
+<img src="http://obscureproblemsandgotchas.com/wp-content/uploads/2018/09/Git-bash.png" alt="Gitbash" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
+</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohitksp&show_icons=true&theme=great-gatsby&count_private=true" alt="Rohit Kashyap" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitksp&layout=compact" alt="Rohit Kashyap"/></p>
 
