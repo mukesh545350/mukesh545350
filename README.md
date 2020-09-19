@@ -12,12 +12,4 @@
 <p align="center">
 <a href="https://fb.com/9889545350" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="9889545350" height="30" width="30" /></a>
 </p>
---><!--START_SECTION:waka-->
-```text
-HTML         49 mins         ██████████▓░░░░░░░░░░░░░░   42.06 % 
-JavaScript   35 mins         ███████▓░░░░░░░░░░░░░░░░░   30.17 % 
-CSS          23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Markdown     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-```
-<!--END_SECTION:waka-->
 
