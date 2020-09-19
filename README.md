@@ -1,3 +1,6 @@
+<p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3mVKYM-oo6pgetRKHZvMO_H0TutbCCx55Zw&usqp=CAU" width = 100% /></p>
+<br>
+
 <h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
 <h3 align="center">I am an aspiring software engineer</h3>
 
